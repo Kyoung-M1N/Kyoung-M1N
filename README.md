@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/park48664866@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><img src="https://img.shields.io/badge/kyong_m1n-E4405F?style=flat-square&logo=Instagram&logoColor=white"/><img src="https://img.shields.io/badge/syudylog.kym1n.com-222222?style=flat-square&logo=GithubPages&logoColor=white"/>
+<img src="https://img.shields.io/badge/park48664866@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/kyong_m1n-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/syudylog.kym1n.com-222222?style=flat-square&logo=GithubPages&logoColor=white"/>
 
 
 ### Hi there 👋
