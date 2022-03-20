@@ -6,7 +6,7 @@ I`m Kyoung-min Park.
 
 ## 📞 Contact
 
-<a href="https://instagram.com/kyong_m1n"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/kyong_m1n/" style="height : auto; margin-left : 5px; margin-right : 5px;"/></a><a href="mailto:park48664866@gmail.com"><img src="http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:park48664866@gmail.com" style="height : auto; margin-left : 5px; margin-right : 5px;"/></a><a href="https://studylog.kym1n.com/"><img src="http://img.shields.io/badge/-GithubPage-black?style=flat&logo=GithubPages&link=https://studylog.kym1n.com/" style="height : auto; margin-left : 5px; margin-right : 5px;"/></a>
+<a href="https://instagram.com/kyong_m1n"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/kyong_m1n/" style="height : auto; margin-left : 5px; margin-right : 5px;"/></a>  <a href="mailto:park48664866@gmail.com"><img src="http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:park48664866@gmail.com" style="height : auto; margin-left : 5px; margin-right : 5px;"/></a>  <a href="https://studylog.kym1n.com/"><img src="http://img.shields.io/badge/-GithubPage-black?style=flat&logo=GithubPages&link=https://studylog.kym1n.com/" style="height : auto; margin-left : 5px; margin-right : 5px;"/></a>
 
 
 
