@@ -30,7 +30,8 @@ I`m Kyoung-min Park.
 
 ![kyoung-M1N's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoung-M1N&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoung-M1N&exclude_repo=kyoung-M1N.github.io,daangn-plus&layout=compact)](https://github.com/Kyoung-M1N/github-readme-stats)    [![Solved.ac<br/>Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pkm4866)](https://solved.ac/pkm4866)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoung-M1N&exclude_repo=kyoung-M1N.github.io,daangn-plus&layout=compact)](https://github.com/Kyoung-M1N/github-readme-stats)    
+<!--[![Solved.ac<br/>Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pkm4866)](https://solved.ac/pkm4866)-->
 
 <!--
 **Kyoung-M1N/Kyoung-M1N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
