@@ -20,15 +20,15 @@ I`m Kyoung-min Park.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Stidio-3DDC84?style=flat&logo=Androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=Intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Stidio-3DDC84?style=flat&logo=Androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=Intellijidea&logoColor=white"/>
 
 
 
 ## 💪Stats
 
-![kyoung-M1N's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoung-M1N&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoung-M1N&exclude_repo=kyoung-M1N.github.io,daangn-plus&layout=compact)](https://github.com/Kyoung-M1N/github-readme-stats)    
+![kyoung-M1N's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoung-M1N&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoung-M1N&exclude_repo=kyoung-M1N.github.io,daangn-plus&layout=compact)](https://github.com/Kyoung-M1N/github-readme-stats)    
 
 <!--
 **Kyoung-M1N/Kyoung-M1N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
