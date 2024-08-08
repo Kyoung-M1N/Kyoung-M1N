@@ -19,11 +19,12 @@ I`m Kyoung-min Park.
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
+
 <!--
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Stidio-3DDC84?style=flat&logo=Androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=Intellijidea&logoColor=white"/>
--->
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Stidio-3DDC84?style=flat&logo=Androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=Intellijidea&logoColor=white"/>-->
+
 
 
 ## 💪Stats
