@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I`m Kyoung-min Park!
+I`m Kyoung-min Park.
 
 
 
