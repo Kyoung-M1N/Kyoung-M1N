@@ -27,9 +27,9 @@ I`m Kyoung-min Park.
 
 
 
-## 💪Stats
 
-![kyoung-M1N's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoung-M1N&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoung-M1N&exclude_repo=kyoung-M1N.github.io&layout=compact)](https://github.com/Kyoung-M1N/github-readme-stats)    
+![kyoung-M1N's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoung-M1N&show_icons=true)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoung-M1N&exclude_repo=kyoung-M1N.github.io&layout=compact)](https://github.com/Kyoung-M1N/github-readme-stats)-->    
 
 <!--
 **Kyoung-M1N/Kyoung-M1N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
