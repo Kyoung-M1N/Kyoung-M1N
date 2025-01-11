@@ -11,7 +11,7 @@ I`m Kyoung-min Park.
 
 ## 📚 Education
 
- - [Kwangwoon University](https://www.kw.ac.kr/ko/) 전자통신공학과 | 20.03 - current
+ - [Kwangwoon University](https://www.kw.ac.kr/ko/) | 전자통신공학과 | 20.03 - current
 
 
 
