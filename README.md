@@ -9,6 +9,17 @@ I`m Kyoung-min Park.
 <a href="https://instagram.com/kyong_m1n"><img src="http://img.shields.io/badge/-Instagram-FF0069?style=flat&logo=Instagram&link=https://instagram.com/kyong_m1n/"/></a>   <a href="mailto:park48664866@gmail.com"><img src="http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:park48664866@gmail.com"/></a>   <a href="https://studylog.kym1n.com/"><img src="http://img.shields.io/badge/-GithubPage-222222?style=flat&logo=GithubPages&link=https://studylog.kym1n.com/"/></a>
 
 
+## 📚 Education
+
+ - [Kwangwoon University](https://www.kw.ac.kr/ko/) 전자통신공학과 | 20.03 - current
+
+
+
+## 🏃‍➡️ Activities
+ - [LikeLion at Kwangwoon Univ](https://likelion.university/) | 광운대학교 멋쟁이 사자처럼 13기 부대표 | 25.02 - current
+ - [LikeLion at Kwangwoon Univ](https://likelion.university/) | 광운대학교 멋쟁이 사자처럼 12기 BackEnd | 24.03 - 24.12
+
+
 
 ## 🛠️ Skills
 
