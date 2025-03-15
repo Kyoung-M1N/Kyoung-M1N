@@ -16,6 +16,7 @@ I`m Kyoung-min Park.
 
 
 ## 🏃‍➡️ Activities
+
  - [LikeLion at Kwangwoon Univ](https://likelion.university/) | 13th 부대표 | 25.02 - current
  - [LikeLion at Kwangwoon Univ](https://likelion.university/) | 12th BackEnd | 24.03 - 24.12
 
