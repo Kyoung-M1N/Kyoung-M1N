@@ -19,7 +19,7 @@ I`m Kyoung-min Park.
 
  - [SOPT](https://www.sopt.org/) | 36th Server YB | 25.03 - current
  - [LikeLion at Kwangwoon Univ](https://likelion.university/) | 13th 부대표 | 25.02 - current
- - [LikeLion at Kwangwoon Univ](https://likelion.university/) | 12th BackEnd | 24.03 - 24.12
+ - [LikeLion at Kwangwoon Univ](https://likelion.university/) | 12th 백엔드 아기사자 | 24.03 - 24.12
 
 
 
