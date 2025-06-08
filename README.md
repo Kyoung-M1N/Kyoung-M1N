@@ -11,14 +11,14 @@ I`m Kyoung-min.
 
 ## 📚 Education
 
- - [Kwangwoon University](https://www.kw.ac.kr/ko/) | 전자통신공학과 | 20.03 -
+ - [Kwangwoon University](https://www.kw.ac.kr/ko/) | 전자통신공학과 | 20.03 - current
 
 
 
 ## 🏃‍➡️ Activities
 
- - [SOPT](https://www.sopt.org/) | 36th 서버 YB | 25.03 -
- - [LikeLion at Kwangwoon Univ](https://likelion.university/) | 13th 부대표 | 25.02 -
+ - [SOPT](https://www.sopt.org/) | 36th 서버 YB | 25.03 - current
+ - [LikeLion at Kwangwoon Univ](https://likelion.university/) | 13th 부대표 | 25.02 - current
  - [LikeLion at Kwangwoon Univ](https://likelion.university/) | 12th 백엔드 아기사자 | 24.03 - 24.12
 
 
