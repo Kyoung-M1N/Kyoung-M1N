@@ -4,7 +4,7 @@ I`m Kyoung-min.
 
 
 
-## 📞 Contact
+## 📞 Contacts
 
 <a href="https://instagram.com/kyong_m1n"><img src="http://img.shields.io/badge/-Instagram-FF0069?style=flat&logo=Instagram&link=https://instagram.com/kyong_m1n/"/></a>   <a href="mailto:park48664866@gmail.com"><img src="http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:park48664866@gmail.com"/></a>   <a href="https://studylog.kym1n.com/"><img src="http://img.shields.io/badge/-GithubPage-222222?style=flat&logo=GithubPages&link=https://studylog.kym1n.com/"/></a>
 
