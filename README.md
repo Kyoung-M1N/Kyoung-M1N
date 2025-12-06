@@ -19,7 +19,7 @@
 
  - [SOPT](https://www.sopt.org/) | 37th 서버 OB | 25.09 - current
  - [SOPT](https://www.sopt.org/) | 36th 서버 YB | 25.03 - 25.07
- - [LikeLion at KWU](https://kwu-likelion.netlify.app/) | 13th 부대표 | 25.02 - current
+ - [LikeLion at KWU](https://kwu-likelion.netlify.app/) | 13th 부대표 | 25.02 - 25.12
  - [LikeLion at KWU](https://kwu-likelion.netlify.app/) | 12th 백엔드 아기사자 | 24.03 - 24.12
 
 
@@ -42,8 +42,8 @@
 
 ---
 
-![kyoung-M1N's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoung-M1N&show_icons=true)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoung-M1N&exclude_repo=kyoung-M1N.github.io&layout=compact)](https://github.com/Kyoung-M1N/github-readme-stats)-->    
+<!--![kyoung-M1N's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoung-M1N&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoung-M1N&exclude_repo=kyoung-M1N.github.io&layout=compact)](https://github.com/Kyoung-M1N/github-readme-stats)-->    
 
 <!--
 **Kyoung-M1N/Kyoung-M1N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
