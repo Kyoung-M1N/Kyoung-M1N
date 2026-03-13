@@ -17,7 +17,7 @@
 
 ## 🏃‍➡️ Activities
 
- - [SOPT](https://www.sopt.org/) | 37th 서버 OB | 25.09 - 26.01
+ - [SOPT](https://www.sopt.org/) | 37, 38th 서버 OB | 25.09 - 26.01
  - [SOPT](https://www.sopt.org/) | 36th 서버 YB | 25.03 - 25.07
  - [LikeLion at KWU](https://kwu-likelion.netlify.app/) | 13th 부대표 | 25.02 - 25.12
  - [LikeLion at KWU](https://kwu-likelion.netlify.app/) | 12th 백엔드 아기사자 | 24.03 - 24.12
